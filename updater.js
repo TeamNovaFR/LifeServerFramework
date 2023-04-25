@@ -5,7 +5,7 @@ const config = {
     fromReleases: true,
     tempLocation: `${__dirname}/lsf_temp`,
     ignoreFiles: ['config.json'],
-    executeOnComplete: 'start.bat',
+    executeOnComplete: `${__dirname}/start.bat`,
     exitOnComplete: true
 }
 
