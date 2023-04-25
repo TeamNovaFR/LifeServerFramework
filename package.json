@@ -1,6 +1,6 @@
 {
   "name": "lifeserver",
-  "version": "1.0.0",
+  "version": "v0.0.1-alpha",
   "description": "Life Server Framework",
   "main": "index.js",
   "scripts": {

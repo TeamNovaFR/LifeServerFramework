@@ -5,7 +5,7 @@ const config = {
     fromReleases: true,
     tempLocation: 'lsf_temp',
     ignoreFiles: ['config.json'],
-    executeOnComplete: 'checkUpdate.bat',
+    executeOnComplete: 'start.bat',
     exitOnComplete: true
 }
 
