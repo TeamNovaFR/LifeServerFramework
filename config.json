@@ -1,0 +1,6 @@
+{
+    "serverName": "Default Life Server",
+    "isSingleServer": true,
+    "apiKey": "YOUR_LIFE_API_KEY",
+    "frameworkPort": 8109 
+}
